@@ -42,7 +42,7 @@ Track your finances beautifully with interactive charts and smooth UI.
 
 </div>
 
-![Dashboard](./Frontend/public/dashboard.png)
-![Expenses](./Frontend/public/expenses.png)
-![Mobile view](./Frontend/public/mobile.jpg)
+![Dashboard](./public/dashboard.png)
+![Expenses](./public/expenses.png)
+![Mobile view](./public/mobile.jpg)
 
