@@ -1,16 +1,48 @@
-# React + Vite
+# 💰Expense-tracker — Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, intuitive expense tracker frontend built with **React, Vite, and TailwindCSS**.  
+Track your finances beautifully with interactive charts and smooth UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 📊 **Dashboard Overview** - Visualize your spending with interactive charts  
+- 💸 **Expense Management** - Add, edit, and delete expenses with intuitive forms  
+- 🗂️ **Smart Categorization** - Organize expenses into 9 predefined categories  
+- 📱 **Fully Responsive** - Seamless experience across all devices  
+- 📈 **Monthly Analytics** - Filter and analyze expenses by specific time periods  
+- 🎯 **Advanced Filtering** - Search by category, date range, and keywords  
+- 💰 **Rupee Support** - Built for Indian currency with ₹ symbol  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend Architecture
+<div align="center">
+
+| Technology | Logo | Purpose |
+|------------|------|---------|
+| **React 18** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100"> | Modern UI Framework |
+| **Vite** | <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" width="80"> | Fast Build Tool |
+| **TailwindCSS** | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="120"> | Utility-First CSS |
+| **React Router** | <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" width="120"> | Client-Side Routing |
+
+</div>
+
+### Frontend Libraries
+<div align="center">
+
+| Library | Badge | Description |
+|---------|-------|-------------|
+| **Recharts** | <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chart.js&logoColor=white" width="90"> | Beautiful Data Visualization |
+| **Lucide Icons** | <img src="https://img.shields.io/badge/Lucide-000000?style=flat-square&logo=react&logoColor=white" width="90"> | Beautiful Icon Library |
+| **Context API** | <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" width="90"> | State Management |
+
+</div>
+
+![Dashboard](./Frontend/public/dashboard.png)
+![Expenses](./Frontend/public/expenses.png)
+![Mobile view](./Frontend/public/mobile.jpg)
+
