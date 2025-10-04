@@ -42,6 +42,21 @@ Track your finances beautifully with interactive charts and smooth UI.
 
 </div>
 
+---
+
+## 🧠 Future Enhancements
+
+- ⚡ **Optimized Hosting** – Deploy backend on always-on servers for instant response times  
+- 🧾 **Income Management UI** – Add income tracking interface with charts & summary  
+- 🤖 **AI Assistant UI** – Integrate AI chatbot to analyze spending & give saving tips  
+- 🌗 **Dark Mode Support** – Toggle between light and dark themes for better UX  
+- 📈 **Advanced Graphs** – Add trend lines and predictions in analytics dashboard  
+- 📲 **PWA Support** – Make HisabKitab installable as a mobile app  
+- 🔔 **Notifications** – Frontend reminders for upcoming bills and spending limits  
+- 📤 **Export Data** – Download expense reports in PDF/CSV format  
+
+---
+
 ![Dashboard](./public/dashboard.png)
 ![Expenses](./public/expenses.png)
 ![Mobile view](./public/mobile.jpg)
